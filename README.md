@@ -124,7 +124,7 @@ python scripts/04_fair_evaluation.py
 
 ```
 신은선. (2026). FAIR 원칙에 따른 한국 고문헌 메타데이터 관리체계 진단.
-한국기록관리학회지. https://github.com/[계정]/korcis-fair-analysis
+한국기록관리학회지 (게재 예정). https://github.com/SHINEUNSUN1027/korcis-fair-analysis
 ```
 
 ---
